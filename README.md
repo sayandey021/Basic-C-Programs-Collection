@@ -44,6 +44,8 @@ You can run these programs using:
 gcc filename.c -o output
 ./output
 
+---
+
 🧪 Online Compilers
 You can also paste the code into:
 
