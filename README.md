@@ -42,9 +42,8 @@ You can run these programs using:
 
 ```bash
 gcc filename.c -o output
-./output
-
----
+./output 
+```
 
 🧪 Online Compilers
 You can also paste the code into:
