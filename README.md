@@ -51,13 +51,14 @@ https://www.programiz.com/c-programming/online-compiler/
 
 https://www.onlinegdb.com/
 
-🛠️ Contributing
+
+## 🛠️ Contributing
 If you're learning C and want to contribute a new beginner-friendly code snippet, feel free to fork and pull request!
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
-⭐ Support
+## ⭐ Support
 If you find this helpful, feel free to star ⭐ the repo and share with others who are starting their programming journey!
 
 
