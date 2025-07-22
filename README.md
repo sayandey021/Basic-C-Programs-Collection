@@ -45,7 +45,7 @@ gcc filename.c -o output
 ./output 
 ```
 
-🧪 Online Compilers
+###🧪 Online Compilers
 You can also paste the code into:
 
 https://www.programiz.com/c-programming/online-compiler/
