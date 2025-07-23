@@ -63,4 +63,4 @@ This project is licensed under the MIT License.
 If you find this helpful, feel free to star ⭐ the repo and share with others who are starting their programming journey!
 
 
-Happy coding! g😄
+Happy coding! 😄
