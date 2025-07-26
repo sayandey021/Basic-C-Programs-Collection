@@ -31,8 +31,9 @@ int main() {
     for (int i=0; i<5; i++) // Loop to display marks
     {
         printf("Marks of the %d students are: %d \n", i , marks[i]);
-        printf("The address of marks index %d students are: %u \n", i , &marks[i]); 
+        
         // Displaying address of each element & continuous addresses
+        printf("The address of marks index %d students are: %u \n", i , &marks[i]); 
     } 
     return 0;
 }
