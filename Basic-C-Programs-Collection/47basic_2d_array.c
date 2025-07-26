@@ -20,5 +20,14 @@ int main() {
         }
     }
 
+    // Display the 2D array
+    printf("The 2D array is:\n");
+    for (int i = 0; i < 2; i++) {
+        for (int j = 0; j < 3; j++) {
+            printf(" %d ", matrix[i][j]);
+        }
+        printf("\n");
+    }
+
     return 0; 
 }
